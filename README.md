@@ -20,19 +20,19 @@ TI.19.B.1
 
 ![8](https://user-images.githubusercontent.com/82386899/117708744-6044e400-b1fa-11eb-8746-1bc3d7d823e7.png)
 ## 4. Membuat Form Input
-![9](https://user-images.githubusercontent.com/82386899/117716147-71462300-b203-11eb-89cb-9182c44c40b0.png)
+![9](https://user-images.githubusercontent.com/82386899/117726857-64303080-b211-11eb-99f9-4eb9b9026143.png)
 ## 5. Operator
-![10](https://user-images.githubusercontent.com/82386899/117716689-195bec00-b204-11eb-8c7a-82f65bc57d0b.png)
+![10](https://user-images.githubusercontent.com/82386899/117727198-ea4c7700-b211-11eb-9399-211bf9e6f5bc.png)
 ## 6. Kondisi IF
-![11](https://user-images.githubusercontent.com/82386899/117717054-853e5480-b204-11eb-9405-1fde39312f0a.png)
+![11](https://user-images.githubusercontent.com/82386899/117727476-41eae280-b212-11eb-915a-223668d2c2c7.png)
 ## 7. Kondisi SWITCH
-![12](https://user-images.githubusercontent.com/82386899/117717963-aeabb000-b205-11eb-878e-7822e1eeaf29.png)
+![12](https://user-images.githubusercontent.com/82386899/117727789-aefe7800-b212-11eb-8350-2812c71b385c.png)
 ## 8. Perulangan FOR
-![13](https://user-images.githubusercontent.com/82386899/117718217-03e7c180-b206-11eb-8422-4a034f17a758.png)
+![13](https://user-images.githubusercontent.com/82386899/117728132-3cda6300-b213-11eb-986a-183674285b17.png)
 ## 9. Perulangan WHILE
-![14](https://user-images.githubusercontent.com/82386899/117718505-5aed9680-b206-11eb-96dd-f812b91e88ba.png)
+![14](https://user-images.githubusercontent.com/82386899/117728505-c12ce600-b213-11eb-9cd7-5aeedba0185c.png)
 ## 10. Perulangan DOWHILE
-![15](https://user-images.githubusercontent.com/82386899/117718861-e49d6400-b206-11eb-9a54-d38b3f4cf991.png)
+![15](https://user-images.githubusercontent.com/82386899/117728767-0f41e980-b214-11eb-8e59-bdc701e8b3c3.png)
 
 # TUGAS
 ## Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
